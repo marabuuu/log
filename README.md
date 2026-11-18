@@ -1,11 +1,9 @@
 # log
 
-Personal notes on science and learning.
+Random thoughts on science and interesting things I learn along the way.
 
-This repository contains the source for the [Jupyter Book](https://jupyterbook.org/).
+You can read the [Jupyter Book](https://marabuuu.github.io/log/) here.
 
-Unless otherwise noted, the book's content is licensed under
-[CC BY 4.0](LICENSE-CC-BY).
-
-Once GitHub Pages is enabled for the `gh-pages` branch, the published book will
-be available at <https://marabuuu.github.io/log/> .
+If you have any thoughts or ideas about what I could explore and write about
+next, feel free to open a [GitHub issue](https://github.com/marabuuu/log/issues).
+I would love to hear your ideas!
