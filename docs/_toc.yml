@@ -4,4 +4,9 @@ format: jb-book
 root: intro
 chapters:
   - file: thoughts-on-science
+    sections:
+      - file: thoughts-on-science/permaculture-holds-arguments-on-why-we-need-more-interdisciplinarity-in-science
+      - file: thoughts-on-science/thoughts-on-scientific-publishing-while-mowing-the-lawn
   - file: deep-reinforcement-learning
+    sections:
+      - file: deep-reinforcement-learning/01-introduction-to-deep-reinforcement-learning
